@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# Polygon Pampa Name Service
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates how to emulate [Ethereum Name Service](https://ens.domains/). It uses NFT coupled with smart contract to create a domain name service with records.
 
-Try running some of the following tasks:
+This project is part of [Buildspace](https://buildspace.so/polygon)
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+[Try it live!](https://polygon-pampa-name-service.vercel.app/)
